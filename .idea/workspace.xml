@@ -2,46 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea0a3526-22e4-4c90-9953-6b1cff09553e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/Huawei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/HuaweiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/IphoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/工厂方法模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/Huawei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/HuaweiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/IphoneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/抽象工厂模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/简单工厂模式/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/简单工厂模式/Huawei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/简单工厂模式/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/简单工厂模式/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/工厂模式/简单工厂模式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/Huawei.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/HuaweiFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/Iphone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/IphoneFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/工厂方法模式/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/简单工厂模式/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/简单工厂模式/Huawei.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/简单工厂模式/Iphone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/简单工厂模式/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/工厂模式/简单工厂模式/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/懒汉式/Single.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/懒汉式/StaticClassSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/单例模式/饿汉式/Single.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,6 +32,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1wA7WxsRE158exDHfFZrQlahZZK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,6 +46,12 @@
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../java/jdk/jdk1.8.0_181.jdk/Contents/Home" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="SvnConfiguration">
@@ -79,7 +64,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627889574749</updated>
-      <workItem from="1627889579874" duration="81000" />
+      <workItem from="1627889579874" duration="532000" />
+      <workItem from="1627910038685" duration="2034000" />
     </task>
     <servers />
   </component>
